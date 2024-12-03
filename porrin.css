@@ -11,19 +11,6 @@ header{
     
 
 }
-.boton{
-    list-style: none;
-    position: relative;
-    
-    font-size: 19px;
-}
-
-.boton2{
-    list-style: none;
-    position: relative;
-    
-    font-size: 19px;
-}
 
 html{
 width: 100%;
@@ -122,6 +109,12 @@ li{
         font-size: 19px;
     }
 
+
+    .header{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
     .divtitulo{
       
         
